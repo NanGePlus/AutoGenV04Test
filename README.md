@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/nangeplus-autogenv04test-badge.png)](https://mseep.ai/app/nangeplus-autogenv04test)
+
 # 1、项目介绍
 ## 1.1、本次分享介绍       
 **(第一期)[2025.1.12]AutoGen v0.4稳定版本框架介绍及AgentChat应用接口功能测试**                                       
